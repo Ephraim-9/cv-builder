@@ -5,7 +5,7 @@ import "./styles.css"
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <h1>CV Builder</h1>
       <GeneralInfo />
       <Education />
