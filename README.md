@@ -69,7 +69,7 @@ This project helped reinforce key concepts in React development, including:
 ## Deployment
 
 The CV Builder is deployed and accessible online:
-[Live Demo]()
+[Live Demo](https://ephraim-9-cv-builder.netlify.app/)
 
 ## Contributing
 
