@@ -1,12 +1,96 @@
-# React + Vite
+# CV Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is a dynamic CV Builder application that allows users to input their details and generate a structured, professional CV in real time. It demonstrates fundamental concepts of React, state management, and controlled components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Skills Demonstrated
 
-## Expanding the ESLint configuration
+- React.js fundamentals
+- JSX and component-based architecture
+- State management using `useState`
+- Form handling and controlled components
+- Dynamic rendering
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML
+- CSS
+- Vite (for development and bundling)
+- Netlify (for deployment)
+
+## Installation Instructions
+
+To install and set up the CV Builder application locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   https://github.com/Ephraim-9/cv-builder
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd cv-builder
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+5. Open the provided local server link in your browser to use the app.
+
+## Usage
+
+- Enter your personal details (name, contact info, etc.).
+- Add work experience, education, and skills.
+- Live preview updates dynamically as you input data.
+- Download or print the final CV.
+
+## Features
+
+- Interactive form with live preview
+- Dynamic updates without page reloads
+- Printable/downloadable CV
+- Responsive and user-friendly UI
+
+## Learning Outcomes
+
+This project helped reinforce key concepts in React development, including:
+
+- Managing component state effectively
+- Handling user input with controlled components
+- Structuring reusable UI components
+- Understanding React's rendering behavior
+
+## Deployment
+
+The CV Builder is deployed and accessible online:
+[Live Demo]()
+
+## Contributing
+
+Contributions are welcome! If you'd like to improve the CV Builder, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request detailing your changes.
+
+## License
+
+This project is licensed under the MIT License. You can find the license details in the `LICENSE` file in the repository.
+
+## Contact Information
+
+For support or inquiries, you can contact me at:
+
+- Email: [ephraimhrm@gmail.com](mailto:ephraimhrm@gmail.com)
+
+## Badges
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
